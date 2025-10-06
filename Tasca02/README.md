@@ -1,5 +1,3 @@
-# Simple Double Text Layout
-
 <div style="display: flex; justify-content: space-between;">
     <div>My Brand</div>
     <div>Pol</div>
