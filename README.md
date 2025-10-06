@@ -41,9 +41,9 @@ EverPia m’ajuda a convertir-me en un professional adaptable, amb esperit col·
 
 ---
 
-<div style="float: right; margin-left: 20px;">
-  <img src="Tasca02/img/slecciodunSAI.png" alt="Imatge" width="150">
-</div>
+<table>
+<tr>
+<td>
 
 📜 [Tasca 02](Tasca02/README.md)<br>
 📜 [Tasca 03](Tasca03/README.md)<br>
@@ -54,4 +54,19 @@ EverPia m’ajuda a convertir-me en un professional adaptable, amb esperit col·
 📜 [Tasca 08](Tasca08/README.md)<br>
 📜 [Tasca 09](Tasca09/README.md)<br>
 📜 [Tasca 10](Tasca10/README.md)
+
+</td>
+
+
+
+<td2>
+
+<div style="float: right; margin-left: 20px;">
+  <img src="Tasca02/img/slecciodunSAI.png" alt="Imatge" width="250">
+</div>
+
+</td2>
+</tr>
+</table>
+
 
