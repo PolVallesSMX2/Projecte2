@@ -1,14 +1,4 @@
-<table width="100%">
-<tr>
-<td align="left">
-<a href="README_anterior.md">⬅ Volver a la página anterior</a>
-</td>
-<td align="right">
-<a href="README.md">⬆ Volver al inicio</a>
-</td>
-</tr>
-</table>
-
+<nb-actions size="small" class="pull-right"> <nb-action icon="plus-outline" ></nb-action> <nb-action icon="plus-outline"></nb-action> <nb-action icon="plus-outline"></nb-action> </nb-actions>
 
 # Solució Tasca 02
 **Autor:** Pol Vallès Esteban
