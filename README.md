@@ -1,3 +1,20 @@
+<nb-layout-header>
+<div class="container-fluid">
+      <div class="row">
+          <a [routerLink]="['/home']" class="brand">My Brand</a>
+          <span class="flex-expand"></span> <!--This is the magic-->
+          <a (click)="buscar()">
+            <nb-icon [icon]="'search-outline'" pack="eva" [attr.aria-label]="'Buscar'">
+            </nb-icon>
+          </a>
+          <a (click)="doSomething()">
+            <nb-icon [icon]="'person-outline'" pack="eva" [attr.aria-label]="'Testing'">
+            </nb-icon>
+          </a>
+      </div>
+</div>
+</nb-layout-header>
+
 # **Projecte EverPia – Consultor Júnior**
 
 ## Qui som
