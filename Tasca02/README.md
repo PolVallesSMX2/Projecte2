@@ -4,10 +4,10 @@
 <table width="100%">
 <tr>
 <td align="left">
-<h1>My Brand</h1>
+<h1>My Brand                              </h1>
 </td>
 <td align="right">
-<h1>Pol</h1>
+<h1>                                   Pol</h1>
 </td>
 </tr>
 </table>
