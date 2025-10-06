@@ -1,11 +1,11 @@
 <table width="100%">
 <tr>
 <td align="left">
-<a href="README.md">⬅ Volver a la página anterior</a>
+<a href="README_anterior.md">⬅ Volver a la página anterior</a>
 </td>
-<td2 align="right">
-<a href="#top">⬆ Volver al inicio</a>
-</td2>
+<td align="right">
+<a href="README.md">⬆ Volver al inicio</a>
+</td>
 </tr>
 </table>
 
