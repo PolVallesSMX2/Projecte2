@@ -1,5 +1,3 @@
-<nb-actions size="small" class="pull-right"> <nb-action icon="plus-outline" ></nb-action> <nb-action icon="plus-outline"></nb-action> <nb-action icon="plus-outline"></nb-action> </nb-actions>
-
 # Solució Tasca 02
 **Autor:** Pol Vallès Esteban
 
