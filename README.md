@@ -42,7 +42,7 @@ EverPia m’ajuda a convertir-me en un professional adaptable, amb esperit col·
 ---
 
 <div style="float: right; margin-left: 20px;">
-  <img src="Tasca02/img/slecciodunSAI.png" alt="Imatge" width="250">
+  <img src="Tasca02/img/slecciodunSAI.png" alt="Imatge" width="150">
 </div>
 
 📜 [Tasca 02](Tasca02/README.md)<br>
