@@ -1,14 +1,18 @@
+# My Brand
+
 <div align="center">
-<table>
+
+<table width="100%">
 <tr>
-<td align="left" width="50%">
-<h2>My Brand</h2>
+<td align="left">
+<h1>My Brand</h1>
 </td>
-<td align="right" width="50%">
-<h2>Pol</h2>
+<td align="right">
+<h1>Pol</h1>
 </td>
 </tr>
 </table>
+
 </div>
 
 
