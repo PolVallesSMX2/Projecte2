@@ -1,4 +1,4 @@
-# Projecte EverPia – Consultor Júnior
+# **Projecte EverPia – Consultor Júnior**
 
 ## Qui som
 EverPia és una consultora IT creada per professors apassionats per la tecnologia i l’educació. La nostra missió és ajudar persones i organitzacions a créixer amb solucions tecnològiques innovadores.
