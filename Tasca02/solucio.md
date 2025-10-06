@@ -35,3 +35,6 @@ El model seleccionat és **EPYC Quantum 1500VA / 900 W** perquè:
 - Té una bona relació qualitat-preu respecte a altres models.  
 
 Aquest SAI garanteix que els ordinadors i la xarxa estiguin protegits en cas de tall de llum i permet apagar els equips de manera segura.
+
+🔙 [Tornar a la tasca](README.md)  
+📍 [Tornar a la pàgina del projecte](../README.md)
