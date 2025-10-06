@@ -1,4 +1,4 @@
-# My Brand ━━━━━━━━━━━━━━━━━━━━━━━━━━ Pol
+# My Brand ━━━━━━━━━━━━━━━━━━━━━ Pol
  
 # Descripció de la tasca
 ## Enunciat
