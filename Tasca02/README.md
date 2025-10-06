@@ -1,62 +1,15 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Brand - Layout</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background-color: #f5f5f5;
-            padding: 20px;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            background: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 15px 20px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            border-radius: 6px;
-            color: white;
-            font-size: 20px;
-            font-weight: 600;
-        }
-        .header div:first-child {
-            letter-spacing: 1px;
-        }
-        .header div:last-child {
-            opacity: 0.95;
-        }
-        @media (max-width: 600px) {
-            .header {
-                font-size: 16px;
-                padding: 12px 15px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <div>My Brand</div>
-            <div>Pol</div>
-        </div>
-    </div>
-</body>
-</html>
+<div align="center">
+<table>
+<tr>
+<td align="left" width="50%">
+<h2>My Brand</h2>
+</td>
+<td align="right" width="50%">
+<h2>Pol</h2>
+</td>
+</tr>
+</table>
+</div>
 
 
 # Descripció de la tasca
