@@ -3,9 +3,9 @@
 <td align="left">
 <a href="README.md">⬅ Volver a la página anterior</a>
 </td>
-<td align="right">
+<td2 align="right">
 <a href="#top">⬆ Volver al inicio</a>
-</td>
+</td2>
 </tr>
 </table>
 
