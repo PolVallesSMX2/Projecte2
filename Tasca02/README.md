@@ -6,7 +6,7 @@ L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament 
 
 <p align="center">
  <img src="img/slecciodunSAI.png" alt="Imatge Enunciat T02">
-<p>
+</p>
 
 ## Solució
 Pots veure la solució aquí: [solucio.md](solucio.md)
