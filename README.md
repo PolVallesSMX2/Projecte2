@@ -29,12 +29,31 @@ Durant l’onboarding i les primeres tasques practico:
 EverPia m’ajuda a convertir-me en un professional adaptable, amb esperit col·laboratiu i capacitat de resoldre reptes tecnològics reals.
 
 
-📜 [Tasca 02](Tasca02/README.md)  
+<!--📜 [Tasca 02](Tasca02/README.md)  
 📜 [Tasca 03](Tasca03/README.md)  
-📜 [Tasca 04](MissatgeTascaEnDesenvolupament.md)<!--(Tasca04/README.md)-->  
-📜 [Tasca 05](MissatgeTascaEnDesenvolupament.md)<!--(Tasca05/README.md)-->  
-📜 [Tasca 06](MissatgeTascaEnDesenvolupament.md)<!--(Tasca06/README.md)-->  
-📜 [Tasca 07](MissatgeTascaEnDesenvolupament.md)<!--(Tasca07/README.md)-->  
-📜 [Tasca 08](MissatgeTascaEnDesenvolupament.md)<!--(Tasca08/README.md)-->  
-📜 [Tasca 09](MissatgeTascaEnDesenvolupament.md)<!--(Tasca09/README.md)-->  
+📜 [Tasca 04](MissatgeTascaEnDesenvolupament.md)<!--(Tasca04/README.md)  
+📜 [Tasca 05](MissatgeTascaEnDesenvolupament.md)<!--(Tasca05/README.md) 
+📜 [Tasca 06](MissatgeTascaEnDesenvolupament.md)<!--(Tasca06/README.md)  
+📜 [Tasca 07](MissatgeTascaEnDesenvolupament.md)<!--(Tasca07/README.md)  
+📜 [Tasca 08](MissatgeTascaEnDesenvolupament.md)<!--(Tasca08/README.md)  
+📜 [Tasca 09](MissatgeTascaEnDesenvolupament.md)<!--(Tasca09/README.md)  
 📜 [Tasca 10](MissatgeTascaEnDesenvolupament.md)<!--(Tasca10/README.md)-->
+
+---
+
+<br>
+<div style="float: right; margin-left: 20px;">
+  <img src="Tasca02/img/slecciodunSAI.png" alt="Imatge" width="250">
+</div>
+<br>
+
+📜 [Tasca 02](Tasca02/README.md)<br>
+📜 [Tasca 03](MissatgeTascaEnDesenvolupament.md)<!--(Tasca03/README.md)<br>-->  
+📜 [Tasca 04](MissatgeTascaEnDesenvolupament.md)<!--(Tasca04/README.md)<br>-->  
+📜 [Tasca 05](MissatgeTascaEnDesenvolupament.md)<!--(Tasca05/README.md)<br>-->  
+📜 [Tasca 06](MissatgeTascaEnDesenvolupament.md)<!--(Tasca06/README.md)<br>-->  
+📜 [Tasca 07](MissatgeTascaEnDesenvolupament.md)<!--(Tasca07/README.md)<br>-->  
+📜 [Tasca 08](MissatgeTascaEnDesenvolupament.md)<!--(Tasca08/README.md)<br>-->  
+📜 [Tasca 09](MissatgeTascaEnDesenvolupament.md)<!--(Tasca09/README.md)<br>-->  
+📜 [Tasca 10](MissatgeTascaEnDesenvolupament.md)<!--(Tasca10/README.md)-->  
+
