@@ -27,3 +27,7 @@ Durant l’onboarding i les primeres tasques practico:
 
 ## Aprenentatge i futur
 EverPia m’ajuda a convertir-me en un professional adaptable, amb esperit col·laboratiu i capacitat de resoldre reptes tecnològics reals.
+
+
+📜 [Tasca 02](Tasca02)  
+📜 [Tasca 03](Tasca03/README.md)
