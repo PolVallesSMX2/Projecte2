@@ -1,4 +1,3 @@
-# My Brand
 
 <div align="center">
 
