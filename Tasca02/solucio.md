@@ -1,3 +1,15 @@
+<table width="100%">
+<tr>
+<td align="left">
+<a href="README.md">⬅ Volver a la página anterior</a>
+</td>
+<td align="right">
+<a href="#top">⬆ Volver al inicio</a>
+</td>
+</tr>
+</table>
+
+
 # Solució Tasca 02
 **Autor:** Pol Vallès Esteban
 
