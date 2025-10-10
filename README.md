@@ -30,7 +30,7 @@ EverPia m’ajuda a convertir-me en un professional adaptable, amb esperit col·
 
 
 📜 [Tasca 02](Tasca02/README.md)  
-📜 [Tasca 03](MissatgeTascaEnDesenvolupament.md)<!--(Tasca03/README.md)-->  
+📜 [Tasca 03](Tasca03/README.md)  
 📜 [Tasca 04](MissatgeTascaEnDesenvolupament.md)<!--(Tasca04/README.md)-->  
 📜 [Tasca 05](MissatgeTascaEnDesenvolupament.md)<!--(Tasca05/README.md)-->  
 📜 [Tasca 06](MissatgeTascaEnDesenvolupament.md)<!--(Tasca06/README.md)-->  
