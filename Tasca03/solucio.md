@@ -89,5 +89,8 @@ Si ho hem fet bé ara podrem accedir posant la nostra contraseña 1234.
  <img src="img/T03-9.png" alt="Imatge T03-9">
 </p>
 
+---
+
 🔙 [Tornar a la tasca](README.md)  
 📍 [Tornar a la pàgina del projecte](../README.md)
+
