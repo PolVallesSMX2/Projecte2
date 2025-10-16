@@ -15,10 +15,39 @@
 
 ---
 
-| Característica         | Pàgines                             | Entrades                                       |
-| ---------------------- | ----------------------------------- | ---------------------------------------------- |
-| Contingut              | Contingut fix, estable              | Publicacions dinàmiques del blog               |
-| Data                   | No té data visible                  | Té data de publicació                          |
-| Categories i etiquetes | Normalment no s’usen                | Sí, es poden assignar                          |
-| Ordenació              | No cronològica                      | Ordre cronològic invers (la més recent primer) |
-| Exemple                | Inici, Contacte, Les meves mascotes | Opinió sobre una sèrie – Capítol 1, Capítol 2… |
+<table align=center>
+  <thead>
+    <tr>
+      <th>Característica</th>
+      <th>Pàgines</th>
+      <th>Entrades</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Contingut</td>
+      <td>Contingut fix, estable</td>
+      <td>Publicacions dinàmiques del blog</td>
+    </tr>
+    <tr>
+      <td>Data</td>
+      <td>No té data visible</td>
+      <td>Té data de publicació</td>
+    </tr>
+    <tr>
+      <td>Categories i etiquetes</td>
+      <td>Normalment no s’usen</td>
+      <td>Sí, es poden assignar</td>
+    </tr>
+    <tr>
+      <td>Ordenació</td>
+      <td>No cronològica</td>
+      <td>Ordre cronològic invers (la més recent primer)</td>
+    </tr>
+    <tr>
+      <td>Exemple</td>
+      <td>Inici, Contacte, Les meves mascotes</td>
+      <td>Opinió sobre una sèrie – Capítol 1, Capítol 2…</td>
+    </tr>
+  </tbody>
+</table>
