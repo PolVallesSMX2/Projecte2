@@ -31,6 +31,6 @@ EverPia m’ajuda a convertir-me en un professional adaptable, amb esperit col·
 
 📜 [Tasca 02](Tasca02/README.md)  
 📜 [Tasca 03](Tasca03/README.md)  
-📜 [Tasca 11](Tasca11/README.md)<!--(Tasca04/README.md)-->   
+📜 [Tasca 11]([Tasca11/README.md](https://github.com/PolVallesSMX2/Projecte2/tree/main/Tasca11))<!--(Tasca04/README.md)-->   
 
 
